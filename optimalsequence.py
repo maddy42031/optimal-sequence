@@ -1,6 +1,6 @@
 # I'm Ma👽dy.
 
-#  Machine Problem.
+# Optimal Sequence Problem.
 
 # Below table is example question.
 
